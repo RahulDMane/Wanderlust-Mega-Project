@@ -31,10 +31,10 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 ![image](Assets/image.png)
 
 - <b>CD pipeline to update application version</b>
-![image](https://github.com/user-attachments/assets/8fd13807-622e-45f7-af23-dcc1ba30ca5d)
+![image](Assets/Wanderlust_CD.png)
 
 - <b>ArgoCD application for deployment on EKS</b>
-![image](Assets/Wanderlust_CD.png)
+![image](https://github.com/user-attachments/assets/1ea9d486-656e-40f1-804d-2651efb54cf6)
 
 #
 > [!Important]
